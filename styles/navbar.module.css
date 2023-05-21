@@ -1,0 +1,12 @@
+.nav {
+    background-color: rgb(230, 177, 126);
+}
+
+/* .description nav {
+    background: rgb(230, 177, 126)
+    } */
+
+.nameLogo:hover {
+    width: 500;
+    height: 125
+}
