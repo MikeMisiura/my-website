@@ -1,0 +1,74 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "title": "name",
+            "link": "link",
+            "github": "github",
+            "screenshot": null,
+            "display": false,
+            "live": false,
+            "description": "description"
+        },
+        {
+            "id": 1,
+            "title": "Guessing Game",
+            "link": "https://guessinggame.mikemsiura.net/",
+            "github": "https://github.com/MikeMisiura/Guessing-Game",
+            "screenshot": null,
+            "display": true,
+            "live": true,
+            "description": "Guess the number I guess the number game with a fun victory message. The object of the game is to try to guess a number between 0 and 100. The program will tell you if the number is higher or lower than the number you previously guessed.</br>This project is written entirely in react, and uses local storage to persist the high score."
+        },
+        {
+            "id": 2,
+            "title": "Mike Misiura",
+            "link": "link",
+            "github": "github",
+            "screenshot": null,
+            "display": true,
+            "live": false,
+            "description": "A personal website designed by and about Mike Misiura to show the world my skills and the quality of my work.</br>This is a front end only project built using react, next, and javascript."
+        },
+        {
+            "id": 3,
+            "title": "Tweeter",
+            "link": "link",
+            "github": "github",
+            "screenshot": null,
+            "display": false,
+            "live": false,
+            "description": "A social media website that allows users to log and post messages that everyone else who visits the website can read.<br/>The back end of this project is written in typescript, the front end is written in react, and it accesses a my sequel database."
+        },
+        {
+            "id": 4,
+            "title": "Sales",
+            "link": "link",
+            "github": "github",
+            "screenshot": null,
+            "display": false,
+            "live": false,
+            "description": "This is a sample front end or an admin to a sales site. To you sir is able to create, edit, and delete products to be sold on an e-commerce site.<br/>This project is written in react, javascript, and bootstrap."
+        },
+        {
+            "id": 5,
+            "title": "Resume Webpage",
+            "link": "link",
+            "github": "github",
+            "screenshot": null,
+            "display": false,
+            "live": false,
+            "description": "The homepage (only) of a website advertising my skills.\nThis page is coded entirely from HTML, CSS, and javascript. I did not use any frameworks."
+        },
+        {
+            "id": 6,
+            "title": "Stack Jam",
+            "link": "link",
+            "github": "github",
+            "screenshot": null,
+            "display": true,
+            "live": false,
+            "description": "An e-commerce website that advertises and sells multiple products. Users can log in to persist their cart or write reviews. Users can also contact the owner through a message form.\nThis site is integrated with Intuit to allow easy inventory and sales features.\nThis site is written in react front end, a typescript, node.js backend"
+        }
+    ]
+}
