@@ -11,9 +11,9 @@ import styles from '@/styles/navbar.module.css'
 export default function MyNavbar() {
     return (
         <div className={styles.nav}>
-            <Navbar expand="lg">
+            <Navbar expand="md">
                 <Container fluid>
-                    <Navbar.Brand href="#">
+                    <Navbar.Brand href="/">
                         <Image
                             src={Logo}
                             alt="Name Logo"

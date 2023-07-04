@@ -1,4 +1,4 @@
-import { projects } from '@/data/products.json'
+import { projects } from '@/data/projects.json'
 import Card from 'react-bootstrap/Card';
 
 export default function ListProducts() {
