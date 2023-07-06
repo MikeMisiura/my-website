@@ -27,7 +27,7 @@ export default function Home() {
           <p>I am a full stack web developer who specializes in React and Typescript. </p>
           <h2 className='mt-5'>Let me build your next website!</h2>
           <p>I can take care of everything from web design to hosting your website on the cloud using Amazon Web Services (AWS).</p>
-          <p>This will allow you to focus on what maters to you instead of being bogged down in the details of web design.</p>
+          <p>This will allow you to focus on what matters to you instead of being bogged down in the details of web design.</p>
         </div>
       </main>
     </>
