@@ -18,7 +18,7 @@
             "github": "https://github.com/MikeMisiura/Guessing-Game",
             "screenshot": null,
             "display": true,
-            "live": true,
+            "live": false,
             "description": "Guess the number is a guess the number game with a fun victory message. The object of the game is to try to guess a number between 0 and 100. The program will tell you if the number is higher or lower than the number you previously guessed.",
             "resources": "This project is written entirely in react, and uses local storage to persist the high score."
         },
