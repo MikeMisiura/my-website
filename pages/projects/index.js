@@ -15,7 +15,7 @@ export default function Projects() {
             </Head>
 
             <div className={styles.nav}>
-                <h1>Checkout these Projects</h1>
+                <h1>My Projects</h1>
                 <ListProducts />
             </div>
         </>

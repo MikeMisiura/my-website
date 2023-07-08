@@ -31,7 +31,7 @@
             "display": true,
             "live": true,
             "description": "A personal website designed by and about Mike Misiura to show the world my skills and the quality of my work.",
-            "resources": "This is a front end only project built using react, next, and javascript."
+            "resources": "This is a front end only project built using react, next, and javascript. It is hosted using ASW Amplify."
         },
         {
             "id": 3,
