@@ -21,7 +21,7 @@ export default function Home() {
           <Image
             src={banner}
             alt="banner"
-            height={200}
+            width={500}
           />
           <h1 className='mt-5'>Welcome to my website!</h1>
           <p>I am a full stack web developer who specializes in React and Typescript. </p>
